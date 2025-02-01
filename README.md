@@ -6,9 +6,8 @@
 
    ```bash
    git clone https://github.com/LucasAoun/football-app.git
-   cd football-app
 
-2. Instale as dependências do Composer:
+2. Acesse o diretorio do projeto e execute o seguinte comando para instalar as dependências do Composer:
    ```bash
    composer install
    
@@ -16,7 +15,7 @@
    ```bash
    php artisan key:generate
 
-4. Crie um arquivo .env e copie o conteudo de .env-example
+4. Crie um arquivo .env e copie o conteudo de .env-example para dentro do .env
 5. Adicione ao .env a chave
     ```
    API_TOKEN_FOOTBALL=38c616efb09a42c195fdb27c9ea39e29
