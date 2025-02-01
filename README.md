@@ -16,6 +16,11 @@
    ```bash
    php artisan key:generate
 
+4. Crie um arquivo .env e copie o conteudo de .env-example
+5. Adicione ao .env a chave
+    ```
+   API_TOKEN_FOOTBALL=38c616efb09a42c195fdb27c9ea39e29
+
 
 
 Observações:
