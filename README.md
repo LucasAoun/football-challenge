@@ -25,3 +25,39 @@
 
 Observações:
 Foi desenvolvido quase todos os requisitos, porém não pude dar continuidade no filtro por time pois a API usada não libera a função de pesquisa por team matches.
+
+
+Ligas (campeonatos disponiveis):
+
+ | WC | FIFA World Cup
+ 
+ | CL | UEFA Champions League
+ 
+ | BL1 | Bundesliga
+ 
+ | DED | Eredivisie
+ 
+ | BSA | Campeonato Brasileiro Série A
+
+ | PD | Primera Division
+
+ | FL1 | Ligue 1
+ 
+ | ELC | Championship
+ 
+ | PPL | Primeira Liga
+ 
+ | EC | European Championship
+
+ | SA | Serie A
+
+ | PL | Premier League
+
+ | CLI | Copa Libertadores
+
+
+Detalhes: Em meus testes foi utilizado a competição "Premier League", você pode buscar tanto pela sigla quanto pelo nome.
+
+![image](https://github.com/user-attachments/assets/e1e87f41-ceec-4b82-969e-cc07ef6c61ad)
+
+ 
