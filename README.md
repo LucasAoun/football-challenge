@@ -15,7 +15,8 @@
    ```bash
    php artisan key:generate
 
-4. Crie um arquivo .env e copie o conteudo de .env-example para dentro do .env
+4. Crie um arquivo .env na raiz do projeto e copie o conteudo de .env-example para dentro do .env
+   
 5. Adicione ao .env a chave
     ```
    API_TOKEN_FOOTBALL=38c616efb09a42c195fdb27c9ea39e29
